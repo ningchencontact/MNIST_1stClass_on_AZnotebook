@@ -1,5 +1,5 @@
 如果你是透過Azure Notebook直接開啟此專案，你只需要將 [configuration](configuration.ipynb) 執行完成，你就可以擁有免費CPU的ipython notebook使用。  
-但建議你透過Azure Portal消費Azure subscription或是Azure Pass來開啟Azure Notebook，你可以開啟GPU的機器(直接透過Azure Notebook portal進入會無法使用GPU)，其中一種開啟方法 請參考 [link](https://docs.google.com/presentation/d/12CIhE3kJ0hyFNN6lLpUNp4lCB3WYZHF6vaco1HVjyS0/edit?usp=sharing) 
+但建議你透過Azure Portal消費Azure subscription或是Azure Pass來開啟Azure Notebook，你可以開啟GPU的機器(直接透過Azure Notebook portal進入會無法使用GPU)，其中一種開啟方法 請參考 [link](https://www.slideshare.net/chiehningchen/how-azure-ml-service-streamlines-cloud-based-machine-learning) 
 
 
 本次MNIST示範教學在 **tutorials** 資料夾。
